@@ -230,6 +230,6 @@ GitHub: \[@pranjalsingh84](https://github.com/pranjalsingh84)
 
 ### Target Group Health Status
 
-![Target Group Healthy](screenshots/target-health.png)
+![Target Group Healthy](screenshots/target-health1.png)
 
 
