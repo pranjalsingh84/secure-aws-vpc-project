@@ -226,7 +226,7 @@ GitHub: \[@pranjalsingh84](https://github.com/pranjalsingh84)
 
 ### Application Load Balancer Website
 
-![ALB Website](screenshots/alb-website.png)
+![ALB Website](screenshots/ALB_website.png)
 
 ### Target Group Health Status
 
