@@ -222,5 +222,14 @@ Hands-on learning project. Configuration and testing details should reflect the 
 
 GitHub: \[@pranjalsingh84](https://github.com/pranjalsingh84)
 
+## Project Screenshots
+
+### Application Load Balancer Website
+
+![ALB Website](screenshots/alb-website.png)
+
+### Target Group Health Status
+
+![Target Group Healthy](screenshots/target-health.png)
 
 
